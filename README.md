@@ -1,4 +1,4 @@
-### Hola Amigos, I'm [Shrejal!](https://shrejal.codes) 👩‍💻.
+### Hola Amigos, I'm [Shrejal!](https://shrejal.codes) 👋🏻 👩‍💻.
 
 
 <br/>
@@ -19,7 +19,6 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://data.whicdn.com/images/229291713/original.gif" />
 <br />
 
-
 #### - 🪐 Universe FanGurl, 
 
 #### - 🛸 Into Cosmology & Psychology 🧠
@@ -36,7 +35,7 @@
 *************
 
 <br />
-#### Thank You-🙏🏼
+
 
 
 <!--
