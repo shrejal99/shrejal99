@@ -19,29 +19,9 @@ I have a keen interest for learning Blockchain Technologies & Technical writing.
 ![](https://visitor-badge.glitch.me/badge?page_id=shrejal99.shrejal99)
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://data.whicdn.com/images/229291713/original.gif" />
+<img align="right" height="200px" width="350px" alt="GIF" src="https://data.whicdn.com/images/229291713/original.gif" />
 <br />
-
 #### - 🪐 Universe FanGurl, 
 #### - 🛸 Into Cosmology & Psychology 🧠
 <br />
-
-<!--
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=shrejal99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
--->
-*************
-<br />
-<!--
-**shrejal99/shrejal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'></h1>
