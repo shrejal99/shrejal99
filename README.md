@@ -9,6 +9,9 @@ I have a keen interest for learning Blockchain Technologies & Technical writing.
 <a href="https://www.linkedin.com/in/shrejal-singh-8026a816b/">
   <img align="left" alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://twitter.com/ShrejalSingh_">
+  <img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/twitter.svg" />
+</a>
 <a href="https://www.instagram.com/_shrejal.singh_/">
   <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
