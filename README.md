@@ -4,7 +4,8 @@
 ***I'm a Pre-final year student at Sant Longowal Institute of Engineering & Technology, Punjab pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies. I have a keen interest in Full Stack Development and its application in various fields.
 I am Web Development, Android development, Web Animations & Competetive Programming Enthusiast and working on and learning in these domains.
 I have a keen interest for learning Blockchain Technologies & Technical writing.***
-<br>
+<br/>
+
 <a href="https://www.linkedin.com/in/shrejal-singh-8026a816b/">
   <img align="left" alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
