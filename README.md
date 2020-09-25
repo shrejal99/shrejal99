@@ -20,8 +20,9 @@ I have a keen interest for learning Blockchain Technologies & Technical writing.
 <br />
 <img align="right" height="150px" width="350px" alt="GIF" src="https://data.whicdn.com/images/229291713/original.gif" />
 <br />
-
-#### - 🪐 Universe FanGurl, 
-#### - 🛸 Into Cosmology & Psychology 🧠
+<p align="center">
+<h3> - 🪐 Universe FanGurl, </h3>
+<h3> - 🛸 Into Cosmology & Psychology 🧠 </h3>
+</p>
 <br />
 <h1 align='center'></h1>
