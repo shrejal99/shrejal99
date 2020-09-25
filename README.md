@@ -17,10 +17,10 @@ I have a keen interest for learning Blockchain Technologies & Technical writing.
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shrejal99.shrejal99)
+<br />
+<img align="right" height="150px" width="350px" alt="GIF" src="https://data.whicdn.com/images/229291713/original.gif" />
+<br />
 
-<br />
-<img align="right" height="200px" width="350px" alt="GIF" src="https://data.whicdn.com/images/229291713/original.gif" />
-<br />
 #### - 🪐 Universe FanGurl, 
 #### - 🛸 Into Cosmology & Psychology 🧠
 <br />
