@@ -21,7 +21,7 @@ I have a keen interest for learning Blockchain Technologies & Technical writing.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shrejal99.shrejal99)
 <br />
-<img align="right" height="150px" width="350px" alt="GIF" src="https://data.whicdn.com/images/229291713/original.gif" />
+<img align="right" height="150px" width="350px" alt="GIF" src="https://3.bp.blogspot.com/-yhZEk8fdFI4/WrKVB2410II/AAAAAAAAAPw/Yvr-yOIpVPAJqWKbExDeq3vnVVSEEfcxwCLcBGAs/s1600/Solar%2BSystem%2B5.gif" />
 <br />
 <p align="center">
 <h3> - 🪐 Universe FanGurl, </h3>
