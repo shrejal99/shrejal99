@@ -1,7 +1,7 @@
 ### Hola Amigos, I'm [Shrejal!](https://shrejal.codes) 👋🏻 👩‍💻.
 <br>
 
-***I'm a Pre-final year student at Sant Longowal Institute of Engineering & Technology, Punjab pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies. I have a keen interest in Full Stack Development and its application in various fields.
+***I'm a student at Sant Longowal Institute of Engineering & Technology, Punjab pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies. I have a keen interest in Full Stack Development and its application in various fields.
 I am Web Development, Web Animations & Competetive Programming Enthusiast and working on and learning in these domains.
 I have a keen interest for learning Blockchain Technologies & Technical writing.***
 <br/>
@@ -25,5 +25,5 @@ I have a keen interest for learning Blockchain Technologies & Technical writing.
 <br />
 <h1 align='center'></h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrejal99&show_icons=true&theme=Gradient)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrejal99&show_icons=true&theme=moltack)  
 
