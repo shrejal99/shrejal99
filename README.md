@@ -1,7 +1,7 @@
 ### Hola Amigos, I'm [Shrejal!](https://github.com/shrejal99) 👋🏻 👩‍💻.
 <br>
 
-***I'm a student at Sant Longowal Institute of Engineering & Technology, Punjab pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies. I have a keen interest in Full Stack Development and its application in various fields.
+***I'm a student at Sant Longowal Institute of Engineering & Technology, Punjab pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies. I am a Full Stack Developer currently working over various application in various fields.
 I am Web Development, Web Animations & Competetive Programming Enthusiast and working on and learning in these domains.
 I have a keen interest for learning Blockchain Technologies & Technical writing.***
 <br/>
