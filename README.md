@@ -25,5 +25,5 @@ I have a keen interest for learning Blockchain Technologies & Technical writing.
 <br />
 <h1 align='center'></h1>
 
-***![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrejal99&show_icons=true)  
+![GitHub stats]***(https://github-readme-stats.vercel.app/api?username=shrejal99&show_icons=true)  
 
